@@ -5,4 +5,5 @@ This project focuses on analysing the career landscape of data professionals wor
 
 By presenting interactive and dynamic visuals, the dashboard allows viewers to explore how different roles, demographics and skill sets influence earning potential and job satisfaction across the data industry. The project involved end-to-end data preparation using Power Query — including cleaning raw survey responses, transforming inconsistent salary formats, and building calculated measures in DAX.
 
-<img width="1483" height="850" alt="Screenshot 2026-11-09 at 10 18 28 am" src="https://github.com/user-attachments/assets/7eeaf130-cf5b-462b-bda7-46945be5e136" />
+<img width="1719" height="914" alt="Screenshot 2026-11-06 at 2 51 40 pm" src="https://github.com/user-attachments/assets/6dc64600-9cb7-4267-a9ac-6ca03b28ad19" />
+
