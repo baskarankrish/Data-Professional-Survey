@@ -8,6 +8,8 @@ The analysis focuses on salary distribution across job roles, programming langua
 
 The dashboard presents survey data through interactive visualisations, helping users explore workforce trends and understand different aspects of careers in the data industry.
 
+<img width="1719" height="914" alt="Screenshot 2026-11-06 at 2 51 40 pm" src="https://github.com/user-attachments/assets/6dc64600-9cb7-4267-a9ac-6ca03b28ad19" />
+
 ## 2. Project Objectives
 
 The main objectives of this project were to:
@@ -69,4 +71,4 @@ Through this project, I developed practical experience in:
 
 **Project Focus:** Data Analytics | Business Intelligence | Data Visualisation
 
-<img width="1719" height="914" alt="Screenshot 2026-11-06 at 2 51 40 pm" src="https://github.com/user-attachments/assets/6dc64600-9cb7-4267-a9ac-6ca03b28ad19" />
+
