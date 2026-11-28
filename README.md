@@ -10,6 +10,15 @@ The dashboard presents survey data through interactive visualisations, helping u
 
 <img width="1719" height="914" alt="Screenshot 2026-11-06 at 2 51 40 pm" src="https://github.com/user-attachments/assets/6dc64600-9cb7-4267-a9ac-6ca03b28ad19" />
 
+## Key Findings and Insights
+
+- **Survey Demographics:** The survey included 630 respondents, with an average age of 29.87 years.
+- **Salary by Job Role:** Data Scientists recorded the highest average salary, followed by Data Engineers and Data Architects.
+- **Programming Language Preferences:** Python was the most preferred programming language among survey respondents, significantly ahead of other languages.
+- **Work-Life Balance:** Respondents reported an average work-life balance score of 4.76 out of 10, indicating room for improvement.
+- **Salary Satisfaction:** The average salary satisfaction score was 4.27 out of 10, highlighting relatively low satisfaction with compensation.
+- **Salary Comparison by Gender:** Female respondents recorded a slightly higher average salary than male respondents within the surveyed population.
+
 ## 2. Project Objectives
 
 The main objectives of this project were to:
